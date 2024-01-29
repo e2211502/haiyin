@@ -3794,8 +3794,12 @@ select:focus {
     border-color: #43c3ea;
 }
 
-
-
+/*RWD*/
+@media (max-width: 800px) {
+	.sec-title {
+		padding: 0;
+	}
+}
 
 
 /*** 

@@ -36,7 +36,7 @@
 
 .about-style1__image .text-outer {
     position: absolute;
-    top: 30px;
+    top: -15px;
     left: -105px;
     bottom: 0;
     writing-mode: vertical-rl;
@@ -134,9 +134,12 @@
     animation: shine 1.6s;
 }
 @media (max-width: 800px) {
-    .about-style1__image .service_area_img1 img {
+    .about-style1__image img {
 		display: none;
     }
+	.about-style1-area {
+		padding: 0;
+	}
 }
 
 
