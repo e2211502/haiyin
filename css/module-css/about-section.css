@@ -133,7 +133,11 @@
     -webkit-animation: shine 1.6s;
     animation: shine 1.6s;
 }
-
+@media (max-width: 800px) {
+    .about-style1__image .service_area_img1 img {
+		display: none;
+    }
+}
 
 
 .about-style1__content {
