@@ -77,7 +77,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: var(--thm-black-rgb);
+    color: #1e3226;
     font-weight: 800;
     line-height: 1.25em;
     font-family: var(--thm-font);
