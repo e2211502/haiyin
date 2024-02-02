@@ -24,7 +24,7 @@
     --thm-gray-rgb: 115, 124, 118;
     --thm-primary: #fdc400;
     --thm-primary-rgb: 253, 196, 0;
-    --thm-black: #1e3226;
+    --thm-black: #1bbc9b;
     --thm-black-rgb: 30, 50, 38;
 }
 
@@ -77,7 +77,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: var(--thm-black);
+    color: var(--thm-black-rgb);
     font-weight: 800;
     line-height: 1.25em;
     font-family: var(--thm-font);
@@ -185,7 +185,7 @@ img {
 	font-weight: bold;
 	font-size: 30px;
 	color: #FFF;
-	background: #006940;
+	background: #1bbc9b;
 	z-index: 10;
 	position: relative;
 }

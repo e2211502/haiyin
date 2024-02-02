@@ -423,13 +423,13 @@
 }
 
 .footer-widget-contact-info ul li .inner .text p {
-    color: #a5b9ad;
+    color: #FFF;
     line-height: 26px;
     margin: 0;
 }
 
 .footer-widget-contact-info ul li .inner .text p a {
-    color: #a5b9ad;
+    color: #ddfff8;
     transition: all 200ms linear;
     transition-delay: 0.1s;
 }
